@@ -1,0 +1,7 @@
+B01;balon;Balon_Stratosferic_1;on;12500.0 -50.2
+B02;balon;Balon_Stratosferic_2;on;10200.5 -35.4
+B03;balon;Balon_Rezerva_3;off;0.0 15.0
+R01;radar;Radar_Doppler_Vest;on;150.0 1.5
+R02;radar;Radar_Doppler_Est;on;250.0 3.0
+P01;pluviometru;Senzor_Precipitatii_A;off;14.5
+P02;pluviometru;Senzor_Precipitatii_B;on;2.3
